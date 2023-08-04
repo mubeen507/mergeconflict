@@ -1,0 +1,7 @@
+This is the original content of the file.
+We are collaborating on this document.
+Each collaborator will make changes on the same lines.
+Let's see how Git handles conflicts.
+
+Line added by collaborator 1.
+Line added by collaborator 2.
